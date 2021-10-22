@@ -1,0 +1,2 @@
+C:\Users\Savannah\source\repos\KomodoInsurance\ClassLibrary1\obj\Debug\DevTeam.csproj.AssemblyReference.cache
+C:\Users\Savannah\source\repos\KomodoInsurance\ClassLibrary1\obj\Debug\DevTeam.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\Savannah\source\repos\KomodoInsurance\DeveloperClassLibrary\bin\Debug\DeveloperClassLibrary.dll
+C:\Users\Savannah\source\repos\KomodoInsurance\DeveloperClassLibrary\bin\Debug\DeveloperClassLibrary.pdb
+C:\Users\Savannah\source\repos\KomodoInsurance\DeveloperClassLibrary\obj\Debug\DeveloperClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Savannah\source\repos\KomodoInsurance\DeveloperClassLibrary\obj\Debug\DeveloperClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Savannah\source\repos\KomodoInsurance\DeveloperClassLibrary\obj\Debug\DeveloperClassLibrary.dll
+C:\Users\Savannah\source\repos\KomodoInsurance\DeveloperClassLibrary\obj\Debug\DeveloperClassLibrary.pdb
